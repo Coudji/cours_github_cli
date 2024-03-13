@@ -1,0 +1,26 @@
+{
+  "name": "github_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx vitest",
+    "lint": "npx eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coudji/cours_github_cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coudji/cours_github_cli/issues"
+  },
+  "homepage": "https://github.com/Coudji/cours_github_cli#readme",
+  "dependencies": {
+    "vitest": "^1.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
