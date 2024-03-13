@@ -32,3 +32,5 @@ jobs:
           version: 8
       - run: node -v
       - run: pnpm -v
+      - run: npm run lint
+      - run: npm run test
